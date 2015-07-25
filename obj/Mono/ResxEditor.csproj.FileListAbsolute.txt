@@ -1,0 +1,14 @@
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\ResxEditor.exe.config
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\ResxEditor.exe
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\Microsoft.WindowsAPICodePack.dll
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\Microsoft.WindowsAPICodePack.xml
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Mono\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.AboutBox.resources
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.Editor.resources
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.FindForm.resources
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.GotoForm.resources
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.OnStart.resources
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.csproj.GenerateResource.Cache
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\obj\Mono\ResxEditor.exe

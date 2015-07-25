@@ -1,0 +1,28 @@
+This program edited by Mohamed Alkindi from ResX project 2006-2007 by Joannes Vermorel, Nick Pasko
+Copyright 2015-2015 by Mohamed Alkindi
+========================
+==Change Log============
+==Version 2=============
+1- Added beautiful start screen.
+2- Upgraded to .NET framework 4.0 and this project doesn't support Windows 2000 and Windows XP.
+3- Add Close File menu item. This option wasn't available in the old versions
+4- Added Find system and enhanced and switchable from Arabic right-to-left and left-to-right automatically without manually. And the user can cancel it by unchecked the check box  
+5- Adding Id column in the container.
+6- Changed about dialog to be more beautiful.
+7- Performance increased while load *.resx file with larg amount of data. This performance had been tested before publishing it.
+8- Enhanced translation system by using very accessible and easy to use editor dialog. To enable it double click to the row that you would like to edit it.
+9- Bugs fixed when :-
+	a- the opened file is not associated with *.resx style.
+	b- font increasing and decreasing shortcut not work probably.
+10-Including windows vista control styles
+11-Adding Microsoft.WindowsAPICodePack.dll library and Microsoft.WindowsAPICodePack.Shell.dll library in the project to enhance user interfaces.
+===End===
+========================
+==New features will be comming soon
+========================
+1- Find dialog with Next and Previous buttons.
+2- Adding Copy,Cut,Paste methods to add more data.
+3- /* For devloper */ replace the System.Xml to System.Xml.Linq for more features and speed.
+4- Fixing some maybe happen bugs and warning messages
+5-Adding support with new TaskDialog for Windows Vista and letter
+6-Making read only view for read only files.

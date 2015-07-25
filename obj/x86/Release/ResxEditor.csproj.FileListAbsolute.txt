@@ -1,0 +1,2 @@
+C:\Users\Alkindi...X\Documents\Reflector\Disassembler\ResxEditor\bin\Release\ResxEditor.exe.config
+C:\Users\Alkindi...X\Documents\GitHub\ResourceX\bin\Release\ResxEditor.exe.config
